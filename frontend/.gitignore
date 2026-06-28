@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.local
+.vite/
+
+# Generated from vite.config.ts / tsconfig (build artifacts)
+vite.config.js
+vite.config.d.ts
+*.tsbuildinfo
