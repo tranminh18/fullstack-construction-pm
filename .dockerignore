@@ -1,0 +1,11 @@
+frontend/
+.git/
+__pycache__/
+*.pyc
+.pytest_cache/
+construction.db
+*.db
+uploads/
+.venv/
+venv/
+tests/
